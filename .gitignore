@@ -1,0 +1,11 @@
+*.pkg
+*.pyc
+*.toc
+*.pyz
+*.db
+*.exe
+*.spec
+__pycache__/
+.env
+*.model
+*.zip
